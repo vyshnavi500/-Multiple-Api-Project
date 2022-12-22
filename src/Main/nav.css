@@ -1,0 +1,14 @@
+.nav-container{
+    display: flex;
+     justify-content: space-evenly; 
+    /* margin:0.5rem; */
+    border: 2px solid white;
+    background-color: rgb(1, 1, 36);
+}
+.nav-container > a{
+    background-color:rgb(1, 1, 36);
+    color: white;
+    padding:1rem;
+    border-radius: 0.4rem;
+    font-size: large;
+}
